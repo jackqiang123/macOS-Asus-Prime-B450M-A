@@ -1,5 +1,5 @@
 # macOS-B450M-A
-macOS High Sierra for Asus Prime B450M-A (OpenCore)
+macOS Big Sur for Asus Prime B450M-A (OpenCore)
 
 <p align="center">
 	<img src="https://github.com/jackqiang123/macOS-Asus-Prime-B450M-A/blob/main/info.png"/>
